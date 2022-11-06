@@ -9,7 +9,7 @@ count_odd = 0
 while n != 0:
     count += 1
     sum_ = sum_ + n
-    med = sum_ / count
+    med_ = sum_ / count
     if n > max_:
         max_ = n
     if n < min_:
